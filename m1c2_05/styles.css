@@ -1,0 +1,19 @@
+
+.flexFive{
+    display: flex;
+    width: 350px;
+    flex-wrap: wrap;
+}
+
+.flexFive .square{
+    background-color: #0b6643;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    
+}
+
+#grow {
+    flex-grow: 2;
+}
+

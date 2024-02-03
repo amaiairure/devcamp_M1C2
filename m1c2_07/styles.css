@@ -1,0 +1,49 @@
+
+.flexSeven{
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+    background-color:#f1f1f1;
+    flex-wrap: wrap;
+    
+}
+
+.square{
+    background-color: #0b6643;
+    width: 100px;
+    height: 100px;
+}
+
+.flexSeven .one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flexSeven .two{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.flexSeven .three{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.flexSeven .four{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+
+
+
+
+

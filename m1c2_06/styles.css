@@ -1,0 +1,37 @@
+
+.flexSix{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+    width: 500px;
+    background-color:#f1f1f1;
+}
+
+.square{
+    background-color: #0b6643;
+    width: 100px;
+    height: 100px;
+}
+
+.one{
+    display: flex;
+    justify-content: space-around;
+}
+
+.two{
+    display: flex;
+    justify-content: space-between;
+    background-color: #d6d6d6;
+}
+
+.three{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+

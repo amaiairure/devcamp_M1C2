@@ -1,0 +1,28 @@
+
+.flexNine{
+    display: flex;
+    width: 450px;
+    height: 250px;
+    background-color:#eeeeee;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.square{
+    background-color: #0b6643;
+    width: 100px;
+    height: 100px;
+}
+
+#one{
+    display: flex;
+    align-self: flex-end;
+}
+
+
+
+
+
+
+
+

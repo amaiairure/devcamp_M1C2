@@ -1,0 +1,14 @@
+
+.flexFour{
+    display: flex;
+    width: 350px;
+    flex-wrap: wrap;
+}
+
+.flexFour .square{
+    background-color: #3d8b6d;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+

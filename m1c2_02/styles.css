@@ -1,0 +1,13 @@
+
+.flexTwo{
+    display: flex;
+    flex-direction: column;
+}
+
+.flexTwo .square{
+    background-color: Aquamarine;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+}
+

@@ -1,0 +1,12 @@
+
+.flexOne{
+    display: flex;
+}
+
+.flexOne .square{
+    background-color: Aquamarine;
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
+}
+
